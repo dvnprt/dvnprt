@@ -1,8 +1,8 @@
-👋 Hi, I’m @dvnprt!
-😄 Pronouns are he/him.
-🧠 I’m on a journey to grow my skills in coding and analytics.
-🌱 I’m currently learning SQL, VBA, and Python, while building experience in Power Query, Tableau, and Power Automate.
-⌨️ I am studying coding to help improve my overall skills in web design.
-🤖 I am an active developer of small bots to help with my productivity.
-👯 I’m not looking to collaborate on anything right now. I'm still learning!
-📫 I'm not available to contact here at GitHub, but try my LinkedIn.
+- 👋 Hi, I’m @dvnprt!
+- 😄 Pronouns are he/him.
+- 🧠 I’m on a journey to grow my skills in coding and analytics.
+- 🌱 I’m currently learning SQL, VBA, and Python, while building experience in Power Query, Tableau, and Power Automate.
+- ⌨️ I am studying coding to help improve my overall skills in web design.
+- 🤖 I am an active developer of small bots to help with my productivity.
+- 👯 I’m not looking to collaborate on anything right now. I'm still learning!
+- 📫 I'm not available to contact here at GitHub, but try my LinkedIn.
